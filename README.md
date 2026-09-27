@@ -1,0 +1,2 @@
+# Cerpen-wender
+&lt;!DOCTYPE html> &lt;html> &lt;head>     &lt;title>Rahasia di Balik Senyuman&lt;/title> &lt;/head> &lt;body>      &lt;h1>Rahasia di Balik Senyuman&lt;/h1>     &lt;h3>Oleh: Wenderhan&lt;/h3>      &lt;p>         Raka selalu terlihat ceria di sekolah. Ia sering tersenyum         kepada teman-temannya. Namun, sebenarnya Raka sedang sedih         karena mendapat nilai ujian yang rendah.
